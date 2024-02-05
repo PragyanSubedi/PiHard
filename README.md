@@ -1,4 +1,4 @@
-# Mathematics in Python
+# PiHard: Mathematics in Python
 
 ![Mathematics in Python](https://github.com/PragyanSubedi/MathInPython/blob/main/assets/cover.png)
 
