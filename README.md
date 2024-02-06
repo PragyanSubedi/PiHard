@@ -4,6 +4,6 @@
 
 This repo houses code for implementing various mathematical concepts in Python.
 
-- [x] (ง'̀-'́)ง Fast Fourier Transform - Performing Fourier Transform in O(nlogn) Time Complexity
+- [x] Fast Fourier Transform - Performing Fourier Transform in O(nlogn) Time Complexity (ง'̀-'́)ง
 
-- [x] ᕦ(ಥ_ಥ)ᕤ Classical Statistics - Exploring Classical Statistics with Practical Python Implementation
+- [x] Classical Statistics - Exploring Classical Statistics with Practical Python Implementation ᕦ(ಥ_ಥ)ᕤ
