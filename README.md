@@ -1,4 +1,4 @@
-# ℼ( ◡̀_◡́)ᕤ PiHard: Mathematics in Python
+# PiHard: Mathematics in Python ℼ( ◡̀_◡́)ᕤ
 
 ![PiHard: Mathematics in Python](https://github.com/PragyanSubedi/MathInPython/blob/main/assets/cover.png)
 
