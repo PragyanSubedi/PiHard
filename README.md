@@ -4,8 +4,14 @@
 
 This repo houses code for implementing various mathematical concepts in Python.
 
-- (ง'̀-'́)ง ✅ Fast Fourier Transform</b> - Performing Fourier Transform in O(nlogn) Time Complexity
+### Physics (ง'̀-'́)ง
 
-- (ง'̀-'́)ง ✅ <b>Classical Statistics</b> - Exploring Classical Statistics with Practical Python Implementation
+✅ Fast Fourier Transform</b> - Performing Fourier Transform in O(nlogn) Time Complexity
 
-- (ง'̀-'́)ง ✅ <b>Vector Norms</b> - Finding the $L_p$ norm of a vector
+### Statistics (ง'̀-'́)ง
+
+✅ <b>Classical Statistics</b> - Exploring Classical Statistics with Practical Python Implementation
+
+### Linear Algrebra (ง'̀-'́)ง
+
+- ✅ <b>Vector Norms</b> - Finding the $L_p$ norm of a vector
