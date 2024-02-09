@@ -14,4 +14,4 @@ This repo houses code for implementing various mathematical concepts in Python.
 
 ### Linear Algrebra (ง'̀-'́)ง
 
-- ✅ <b>Vector Norms</b> - Finding the $L_p$ norm of a vector
+- ✅ <b>Vector Operations and Norms</b> - Finding the $L_p$ norm of a vector
