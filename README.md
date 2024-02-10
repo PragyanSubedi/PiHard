@@ -80,6 +80,7 @@ This repo houses code for implementing various mathematical concepts in Python.
 | Scaled Exponential Linear Unit (SELU) Function    | ✅     |
 | Swish Function                                    | ✅     |
 | Gaussian Error Linear Unit (GELU) Function        | ✅     |
+| Softmax Function                                  | ✅     |
 | Gated Linear Unit (GLU) Function                  | ✅     |
 | ReGLU (ReLU + GLU) Function                       | ✅     |
 | GeGLU (GELU + GLU) Function                       | ✅     |
