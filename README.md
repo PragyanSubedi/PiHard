@@ -53,18 +53,6 @@ This repo houses code for implementing various mathematical concepts in Python.
 | Dot, Cross, Scalar Triple and Vector Triple Products | ✅     |
 | $L_0$, $L_1$, $L_2$, $L_\infty$ and $L_p$ norms      | ✅     |
 
----
-
-### Physics (ง'̀-'́)ง
-
-- ✅ <a href="https://github.com/PragyanSubedi/PiHard/blob/main/Physics/fast_fourier_transform.ipynb" target="__blank__">fast_fourier_transform.ipynb</a> - Performing Fourier Transform in O(nlogn) Time Complexity
-
-| Topic                                                                                    | Status |
-| ---------------------------------------------------------------------------------------- | ------ |
-| Quick intro to Fourier Transform                                                         | ✅     |
-| Fourier Transform using Discrete Fourier Transform (DFT) vs Fast Fourier Transform (FFT) | ███░░  |
-| Implementing Fast Fourier Transform                                                      | ✅     |
-
 - ✅ <a href="https://github.com/PragyanSubedi/PiHard/blob/main/LinearAlgebra/activation_functions_in_ML.ipynb" target="__blank__">activation_functions_in_ML.ipynb</a> - Exploring Activation Functions in Machine Learning
 
 | Topic                                             | Status |
@@ -83,5 +71,17 @@ This repo houses code for implementing various mathematical concepts in Python.
 | ReGLU (ReLU + GLU) Function                       | ✅     |
 | GeGLU (GELU + GLU) Function                       | ✅     |
 | SwiGLU (Swish + GLU) Function                     | ✅     |
+
+---
+
+### Physics (ง'̀-'́)ง
+
+- ✅ <a href="https://github.com/PragyanSubedi/PiHard/blob/main/Physics/fast_fourier_transform.ipynb" target="__blank__">fast_fourier_transform.ipynb</a> - Performing Fourier Transform in O(nlogn) Time Complexity
+
+| Topic                                                                                    | Status |
+| ---------------------------------------------------------------------------------------- | ------ |
+| Quick intro to Fourier Transform                                                         | ✅     |
+| Fourier Transform using Discrete Fourier Transform (DFT) vs Fast Fourier Transform (FFT) | ███░░  |
+| Implementing Fast Fourier Transform                                                      | ✅     |
 
 ---
