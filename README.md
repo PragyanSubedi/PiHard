@@ -65,8 +65,6 @@ This repo houses code for implementing various mathematical concepts in Python.
 | Fourier Transform using Discrete Fourier Transform (DFT) vs Fast Fourier Transform (FFT) | ███░░  |
 | Implementing Fast Fourier Transform                                                      | ✅     |
 
----
-
 - ✅ <a href="https://github.com/PragyanSubedi/PiHard/blob/main/Linear%20Algebra/activation_functions_in_ML.ipynb" target="__blank__">activation_functions_in_ML.ipynb</a> - Exploring Activation Functions in Machine Learning
 
 | Topic                                             | Status |
@@ -85,3 +83,5 @@ This repo houses code for implementing various mathematical concepts in Python.
 | ReGLU (ReLU + GLU) Function                       | ✅     |
 | GeGLU (GELU + GLU) Function                       | ✅     |
 | SwiGLU (Swish + GLU) Function                     | ✅     |
+
+---
