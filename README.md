@@ -43,7 +43,7 @@ This repo houses code for implementing various mathematical concepts in Python.
 
 ### Linear Algrebra (ง'̀-'́)ง
 
-- ✅ <a href="https://github.com/PragyanSubedi/PiHard/blob/main/Linear%20Algebra/vector_operations_and_norms.ipynb" target="__blank__">vector_operations_and_norms</a> - Finding the $L_p$ norm of a vector
+- ✅ <a href="https://github.com/PragyanSubedi/PiHard/blob/main/LinearAlgebra/vector_operations_and_norms.ipynb" target="__blank__">vector_operations_and_norms</a> - Finding the $L_p$ norm of a vector
 
 | Topic                                                | Status |
 | ---------------------------------------------------- | ------ |
@@ -65,7 +65,7 @@ This repo houses code for implementing various mathematical concepts in Python.
 | Fourier Transform using Discrete Fourier Transform (DFT) vs Fast Fourier Transform (FFT) | ███░░  |
 | Implementing Fast Fourier Transform                                                      | ✅     |
 
-- ✅ <a href="https://github.com/PragyanSubedi/PiHard/blob/main/Linear%20Algebra/activation_functions_in_ML.ipynb" target="__blank__">activation_functions_in_ML.ipynb</a> - Exploring Activation Functions in Machine Learning
+- ✅ <a href="https://github.com/PragyanSubedi/PiHard/blob/main/LinearAlgebra/activation_functions_in_ML.ipynb" target="__blank__">activation_functions_in_ML.ipynb</a> - Exploring Activation Functions in Machine Learning
 
 | Topic                                             | Status |
 | ------------------------------------------------- | ------ |
