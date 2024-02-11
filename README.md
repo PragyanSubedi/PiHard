@@ -74,11 +74,16 @@ This repo houses code for implementing various mathematical concepts in Python.
 
 - ✅ <a href="https://github.com/PragyanSubedi/PiHard/blob/main/LinearAlgebra/linear_algebra_study_notes.ipynb" target="__blank__">linear_algebra_study_notes.ipynb</a> - For Quick Revision
 
-| Topic                                       | Status |
-| ------------------------------------------- | ------ |
-| Basics of Vector and real coordinate spaces | ✅     |
-| Addition and subtraction of vectors         | ✅     |
-| Parameterizing lines in any dimensions      | ✅     |
+| Topic                                         | Status |
+| --------------------------------------------- | ------ |
+| Basics of Vector and real coordinate spaces   | ✅     |
+| Addition and subtraction of vectors           | ✅     |
+| Parameterizing lines in any dimensions        | ✅     |
+| Linear combination of vectors and span        | ✅     |
+| Linear dependence and independence            | ✅     |
+| Linear subspaces and basis                    | ✅     |
+| Dot product of vectors                        | ✅     |
+| Cauchy-Schwarz and Vector Triangle Inequality | ✅     |
 
 ---
 
