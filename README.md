@@ -104,3 +104,21 @@ This repo houses code for implementing various mathematical concepts in Python.
 | Implementing Fast Fourier Transform                                                      | ✅     |
 
 ---
+
+### Natural Language Processing (ง'̀-'́)ง
+
+- ✅ <a href="https://github.com/PragyanSubedi/PiHard/blob/main/NaturalLanguageProcessing/similarity_search.ipynb" target="__blank__">similarity_search.ipynb</a> - A Collection of Similarity Search Algorithms
+
+| Topic                                 | Status |
+| ------------------------------------- | ------ |
+| Jaccard Similarity                    | ✅     |
+| W-shingling                           | ✅     |
+| Levenshtein distance                  | ✅     |
+| TF-IDF                                | ✅     |
+| Best Matching 25 (BM25)               | ✅     |
+| FAISS (IndexFlatL2)                   | ✅     |
+| FAISS (IndexFlatL2 with IndexIVFFlat) | ✅     |
+| FAISS (IndexFlatL2 with IndexIVFPQ)   | ✅     |
+| FAISS (IndexFlatIP)                   | ✅     |
+| FAISS (IndexLSH)                      | ✅     |
+| FAISS (IndexHNSWFlat)                 | ✅     |
