@@ -122,3 +122,13 @@ This repo houses code for implementing various mathematical concepts in Python.
 | FAISS (IndexFlatIP)                   | ✅     |
 | FAISS (IndexLSH)                      | ✅     |
 | FAISS (IndexHNSWFlat)                 | ✅     |
+
+---
+
+### Calculus (ง'̀-'́)ง
+
+- ✅ <a href="https://github.com/PragyanSubedi/PiHard/blob/main/Calculus/calculus_study_notes.ipynb" target="__blank__">calculus_study_notes.ipynb</a> - For quick revision
+
+| Topic | Status |
+| ----- | ------ |
+| Limit | ✅     |
