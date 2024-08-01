@@ -136,7 +136,7 @@ This repo houses code for implementing various mathematical concepts in Python.
 
 ### Quantum Computing (ง'̀-'́)ง
 
-- ✅ <a href="https://github.com/PragyanSubedi/PiHard/blob/main/QuantumComputing/complex_numbers.ipynb" target="__blank__">complex_numbers.ipynb</a> Complex Numbers in Python
+- ✅ <a href="https://github.com/PragyanSubedi/PiHard/blob/main/QuantumComputing/complex_numbers.ipynb" target="__blank__">complex_numbers.ipynb</a> - Complex Numbers in Python
 
 | Topic                | Status |
 | -------------------- | ------ |
