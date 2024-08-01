@@ -129,6 +129,20 @@ This repo houses code for implementing various mathematical concepts in Python.
 
 - ✅ <a href="https://github.com/PragyanSubedi/PiHard/blob/main/Calculus/calculus_study_notes.ipynb" target="__blank__">calculus_study_notes.ipynb</a> - For Quick Revision
 
-| Topic | Status |
-| ----- | ------ |
-| Limit | ✅     |
+| Topic           | Status |
+| --------------- | ------ |
+| Limit           | ✅     |
+| Squeeze Theorem | ✅     |
+
+### Quantam Computing (ง'̀-'́)ง
+
+- ✅ <a href="https://github.com/PragyanSubedi/PiHard/blob/main/QuantamComputing/complex_numbers.ipynb" target="__blank__">complex_numbers.ipynb</a> Complex Numbers in Python
+
+| Topic                | Status |
+| -------------------- | ------ |
+| Introduction         | ✅     |
+| Addition             | ✅     |
+| Subtraction          | ✅     |
+| Multiplication       | ✅     |
+| Division             | ✅     |
+| Polar Representation | ✅     |
